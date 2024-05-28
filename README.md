@@ -55,8 +55,10 @@ Excel Normalizer is a Python application designed to clean and standardize Excel
 
 ### Running the Application
 
-Run the stand-alone `design107.exe` executable.
+Run the stand-alone `design107.exe` executable. ( installing dependencies is not required )
+
+Or you can run the script via terminal ( remember to run it on a virtual environment and install all the dependencies )
 
 Run the script:
 ```bash
-python zormalizer115.py 
+python zormalizer115.py give_the_excel_FileName
