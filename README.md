@@ -1,4 +1,4 @@
-# Excel Normalizer
+# Normalizer
 
 Excel Normalizer is a Python application designed to clean and standardize Excel files. It removes null columns, renames specific columns, adjusts column widths, and provides a graphical user interface (GUI) for easy file selection and execution.
 
