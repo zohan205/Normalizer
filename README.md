@@ -57,4 +57,4 @@ Excel Normalizer is a Python application designed to clean and standardize Excel
 
 Run the script:
 ```bash
-python excel_normalizer.py
+python zormalizer115.py
