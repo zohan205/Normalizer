@@ -26,12 +26,12 @@ Excel Normalizer is a Python application designed to clean and standardize Excel
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/ExcelNormalizer.git
+    git clone https://github.com/zohan205/Normalizer.git
     ```
 
 2. **Navigate to the Project Directory**:
     ```bash
-    cd ExcelNormalizer
+    cd Normalizer
     ```
 
 3. **Create and Activate a Virtual Environment**:
